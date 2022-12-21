@@ -1,3 +1,3 @@
-Purpose: To make a website that shows recipes.
+A website that lists dessert recipes.
 
-Skills: Basic HTML
+Includes images and unordered/ordered lists.
