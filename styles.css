@@ -1,0 +1,13 @@
+.title { 
+    font-weight: 300;
+}
+
+.picture{
+    width: 300px;
+    height: fit-content;
+}
+
+.warning {
+    background-color: rgb(245, 170, 214);
+    color: rgb(0, 0, 0);
+}
